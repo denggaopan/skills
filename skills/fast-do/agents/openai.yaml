@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fast Do"
+  short_description: "Complete development tasks across Claude and Codex"
+  default_prompt: "Use $fast-do to complete this development task, verify the result, and finish the agreed delivery steps, including packaging and publishing client apps."
